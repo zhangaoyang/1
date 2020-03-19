@@ -20,17 +20,11 @@
 </head>
 <body>
 	<header class="mui-bar mui-bar-nav" style="background-color:#0066FF;">
-	    <h1 style="color:#FFFFFF;font-size:25px;">ÅóÓÑ</h1>
+	    <h1 style="color:#FFFFFF;font-size:25px;">æœ‹å‹</h1>
 	    <div style="float:right;margin-top:-25px;">
-		    <svg class="icon" aria-hidden="true" style="color:white;margin-right:5px;">
-			  	<use xlink:href="#icon-sousuo"></use>
-			</svg>
-			<svg class="icon" aria-hidden="true" style="color:white;margin-right:5px;">
-			  	<use xlink:href="#icon-wode"></use>
-			</svg>
-			<svg class="icon" aria-hidden="true" style="color:white;margin-right:5px;">
-			  	<use xlink:href="#icon-tianjia"></use>
-			</svg>
+	    	<img class="mui-media-object" src="./images/soyiso.png" style="height:25px;width:25px;margin-right:5px;">
+	    	<img class="mui-media-object" src="./images/wode.png" style="height:25px;width:25px;margin-right:5px;">
+	    	<img class="mui-media-object" src="./images/add.png" style="height:25px;width:25px;margin-right:5px;">
 		</div>
 	</header>
 	<div class="mui-content" style="margin-top:-15px">
@@ -39,8 +33,8 @@
 	            <a href="#">
 	                <img class="mui-media-object" src="./images/friends_icon1.png" style="height:100px;width:100px;">
 	                <div>
-	                	Éú»îºÅ
-	                    <p>¶¤¶¤¸üÐÂÁË</p>
+	                	ç”Ÿæ´»å·
+	                    <p>é’‰é’‰æ›´æ–°äº†</p>
 	                </div>
 	            </a>
 	        </li>
@@ -48,8 +42,8 @@
 	            <a href="#">
 	                <img class="mui-media-object" src="./images/friends_icon2.png" style="height:100px;width:100px;">
 	                <div>
-	                	Ð¡³ÌÐò
-	                	<p>·¢ÏÖ¸ü¶à¾«Æ··þÎñ</p>
+	                	å°ç¨‹åº
+	                	<p>å‘çŽ°æ›´å¤šç²¾å“æœåŠ¡</p>
 	                </div>
 	            </a>
 	        </li>
@@ -57,8 +51,8 @@
 	            <a href="#">
 	                <img class="mui-media-object" src="./images/friends_icon3.png" style="height:100px;width:100px;">
 	                <div>
-	                	Éú»îÈ¦
-	                	<p>ºÍÅóÓÑ·ÖÏíÉú»î</p>
+	                	ç”Ÿæ´»åœˆ
+	                	<p>å’Œæœ‹å‹åˆ†äº«ç”Ÿæ´»</p>
 	                </div>
 	            </a>
 	        </li>
@@ -70,8 +64,8 @@
 	            <a href="javascript:;">
 	                <img class="mui-media-object mui-pull-left" src="./images/friends_icon4.png">
 	                <div class="mui-media-body">
-	                    	·þÎñÌáÐÑ£¨º¬Ö§¸¶ÖúÊÖ£©
-	                    <p class="mui-ellipsis">¿ÕÆøÎÛÈ¾£¬ËÍ½¡¿µ¹û¿©£¡</p>
+	                    	æœåŠ¡æé†’ï¼ˆå«æ”¯ä»˜åŠ©æ‰‹ï¼‰
+	                    <p class="mui-ellipsis">ç©ºæ°”æ±¡æŸ“ï¼Œé€å¥åº·æžœå’¯ï¼</p>
 	                </div>
 	            </a>
 	        </li>
@@ -79,8 +73,8 @@
 	            <a href="javascript:;">
 	                <img class="mui-media-object mui-pull-left" src="./images/friends_icon5.png">
 	                <div class="mui-media-body">
-	                    	ÂìÒÏ²Æ¸»
-	                    <p class="mui-ellipsis">ÄúÓÐ²Æ¸»¿ªÔËºì°ü´ýÁìÈ¡</p>
+	                    	èš‚èšè´¢å¯Œ
+	                    <p class="mui-ellipsis">æ‚¨æœ‰è´¢å¯Œå¼€è¿çº¢åŒ…å¾…é¢†å–</p>
 	                </div>
 	            </a>
 	        </li>
@@ -88,8 +82,8 @@
 	            <a href="javascript:;">
 	                <img class="mui-media-object mui-pull-left" src="./images/friends_icon6.png">
 	                <div class="mui-media-body">
-	                    	ÊÖ»ú³äÖµ
-	                    <p class="mui-ellipsis">¿ì¿ªÑ§µÄÄãÊÇ·ñÒ²ÓÐÕâÑùµÄ¿àÄÕ.</p>
+	                    	æ‰‹æœºå……å€¼
+	                    <p class="mui-ellipsis">å¿«å¼€å­¦çš„ä½ æ˜¯å¦ä¹Ÿæœ‰è¿™æ ·çš„è‹¦æ¼.</p>
 	                </div>
 	            </a>
 	        </li>
@@ -97,8 +91,8 @@
 	            <a href="javascript:;">
 	                <img class="mui-media-object mui-pull-left" src="./images/friends_icon7.png">
 	                <div class="mui-media-body">
-	                    	ÆÖ·¢ÒøÐÐÐÅÓÃ¿¨
-	                    <p class="mui-ellipsis">[ÏûÏ¢ÌáÐÑ]ÄúÓÐÒ»²¨°ë¼ÛÃÀÊ³´ýÁìÈ¡</p>
+	                    	æµ¦å‘é“¶è¡Œä¿¡ç”¨å¡
+	                    <p class="mui-ellipsis">[æ¶ˆæ¯æé†’]æ‚¨æœ‰ä¸€æ³¢åŠä»·ç¾Žé£Ÿå¾…é¢†å–</p>
 	                </div>
 	            </a>
 	        </li>
@@ -106,8 +100,8 @@
 	            <a href="javascript:;">
 	                <img class="mui-media-object mui-pull-left" src="./images/friends_icon8.png">
 	                <div class="mui-media-body">
-	                    	ÆÖ·¢ÒøÐÐÐÅÓÃ¿¨
-	                    <p class="mui-ellipsis">[ÏûÏ¢ÌáÐÑ]ÄúÓÐÒ»²¨°ë¼ÛÃÀÊ³´ýÁìÈ¡</p>
+	                    	æµ¦å‘é“¶è¡Œä¿¡ç”¨å¡
+	                    <p class="mui-ellipsis">[æ¶ˆæ¯æé†’]æ‚¨æœ‰ä¸€æ³¢åŠä»·ç¾Žé£Ÿå¾…é¢†å–</p>
 	                </div>
 	            </a>
 	        </li>
@@ -118,31 +112,31 @@
 	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
 			  	<use xlink:href="#icon-qianbaopengyou"></use>
 			</svg>
-	        <span class="mui-tab-label">Ê×Ò³</span>
+	        <span class="mui-tab-label">é¦–é¡µ</span>
 	    </a>
 	    <a class="mui-tab-item">
 	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
 			  	<use xlink:href="#icon-caifua"></use>
 			</svg>
-	        <span class="mui-tab-label">²Æ¸»</span>
+	        <span class="mui-tab-label">è´¢å¯Œ</span>
 	    </a>
 	    <a class="mui-tab-item">
 	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
 			  	<use xlink:href="#icon-gouwu"></use>
 			</svg>
-	        <span class="mui-tab-label">¿Ú±®</span>
+	        <span class="mui-tab-label">å£ç¢‘</span>
 	    </a>
 	    <a class="mui-tab-item">
 	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
 			  	<use xlink:href="#icon-shejiao"></use>
 			</svg>
-	        <span class="mui-tab-label">ÅóÓÑ<span>
+	        <span class="mui-tab-label">æœ‹å‹<span>
 	    </a>
 	    <a class="mui-tab-item">
 	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
 			  	<use xlink:href="#icon-changbei"></use>
 			</svg>
-	        <span class="mui-tab-label">ÎÒµÄ</span>
+	        <span class="mui-tab-label">æˆ‘çš„</span>
 	    </a>
 	</nav>
 </body>
