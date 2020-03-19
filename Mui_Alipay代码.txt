@@ -8,15 +8,6 @@
     <script src="./js/iconfont.js"></script>
     <link href="css/mui.min.css" rel="stylesheet"/>
     <script type="text/javascript" charset="utf-8">mui.init();</script>
-    <style>
-	.icon {
-		  width: 1em;
-		  height: 1em;
-		  vertical-align: -0.15em;
-		  fill: currentColor;
-		  overflow: hidden;
-		}
-</style>
 </head>
 <body>
 	<header class="mui-bar mui-bar-nav" style="background-color:#0066FF;">
@@ -109,33 +100,23 @@
 	</div>
 	<nav class="mui-bar mui-bar-tab">
 	    <a class="mui-tab-item mui-active">
-	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
-			  	<use xlink:href="#icon-qianbaopengyou"></use>
-			</svg>
+	       <img class="icon mui-icon mui-icon-phone" aria-hidden="true" src="./images/shouye.png" style="height:25px;width:25px;margin-right:5px;">
 	        <span class="mui-tab-label">首页</span>
 	    </a>
 	    <a class="mui-tab-item">
-	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
-			  	<use xlink:href="#icon-caifua"></use>
-			</svg>
+	         <img class="icon mui-icon mui-icon-phone" aria-hidden="true" src="./images/caifu.png" style="height:25px;width:25px;margin-right:5px;">
 	        <span class="mui-tab-label">财富</span>
 	    </a>
 	    <a class="mui-tab-item">
-	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
-			  	<use xlink:href="#icon-gouwu"></use>
-			</svg>
+	        <img class="icon mui-icon mui-icon-phone" aria-hidden="true" src="./images/koubei.png" style="height:25px;width:25px;margin-right:5px;">
 	        <span class="mui-tab-label">口碑</span>
 	    </a>
 	    <a class="mui-tab-item">
-	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
-			  	<use xlink:href="#icon-shejiao"></use>
-			</svg>
+	        <img class="icon mui-icon mui-icon-phone" aria-hidden="true" src="./images/pengyou.png" style="height:25px;width:25px;margin-right:5px;">
 	        <span class="mui-tab-label">朋友<span>
 	    </a>
 	    <a class="mui-tab-item">
-	        <svg class="icon mui-icon mui-icon-phone" aria-hidden="true">
-			  	<use xlink:href="#icon-changbei"></use>
-			</svg>
+	         <img class="icon mui-icon mui-icon-phone" aria-hidden="true" src="./images/wode1.png" style="height:25px;width:25px;margin-right:5px;">
 	        <span class="mui-tab-label">我的</span>
 	    </a>
 	</nav>
